@@ -20,9 +20,9 @@
 <resources>
     <!-- Whether or not auto-correction should be enabled by default -->
     <bool name="enable_autocorrect">false</bool>
-    <bool name="default_auto_cap">true</bool>
-    <bool name="default_quick_fixes">true</bool>
-    <bool name="default_suggestions">true</bool>
+    <bool name="default_auto_cap">false</bool>
+    <bool name="default_quick_fixes">false</bool>
+    <bool name="default_suggestions">false</bool>
     <bool name="default_suggestions_in_landscape">false</bool>
     <!-- Whether this input method should be used as the default for a locale. Override it
          for latin languages. -->

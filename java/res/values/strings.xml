@@ -21,66 +21,66 @@
     <!-- Title for Latin keyboard  -->
     <string name="english_ime_name">Hacker\'s Keyboard</string>
     <!-- Title for Latin keyboard settings activity / dialog -->
-    <string name="english_ime_settings">Settings for Hacker\'s Keyboard</string>
+    <string name="english_ime_settings">配置</string>
     <!-- Title for Latin keyboard input options dialog -->
-    <string name="english_ime_input_options">Input options</string>
+    <string name="english_ime_input_options">输入选项</string>
 
     <!-- Various configuration titles -->
-    <string name="title_keyboard_view_settings">Keyboard view settings</string>
-    <string name="title_keyboard_height_portrait">Keyboard height, portrait</string>
-    <string name="title_keyboard_height_landscape">Keyboard height, landscape</string>
-    <string name="title_key_layout_options">Key layout options</string>
-    <string name="title_key_behavior_settings">Key behavior settings</string>
-    <string name="title_long_press_alternate_keys">Long-press alternate keys</string>
-    <string name="title_suggested_punctuation">Suggested punctuation</string>
-    <string name="title_input_mode_settings">Input mode settings</string>
-    <string name="title_debugging">Debugging</string>
-    <string name="title_input_connection_details">Input connection details</string>
-    <string name="title_version">Version</string>
-    <string name="title_swipe_gestures">Swipe gestures (experimental)</string>
-    <string name="title_hardware_key_actions">Hardware key actions</string>
+    <string name="title_keyboard_view_settings">键盘视图配置</string>
+    <string name="title_keyboard_height_portrait">竖屏键盘高度</string>
+    <string name="title_keyboard_height_landscape">横屏键盘高度</string>
+    <string name="title_key_layout_options">按键设置</string>
+    <string name="title_key_behavior_settings">按键行为设置</string>
+    <string name="title_long_press_alternate_keys">长按交规键</string>
+    <string name="title_suggested_punctuation">浮动符号栏</string>
+    <string name="title_input_mode_settings">输入模式设置</string>
+    <string name="title_debugging">调试</string>
+    <string name="title_input_connection_details">调用输入法的app</string>
+    <string name="title_version">版本</string>
+    <string name="title_swipe_gestures">滑动手势(实验性)</string>
+    <string name="title_hardware_key_actions">硬件按键行为</string>
 
     <!-- Option to provide vibrate/haptic feedback on keypress -->
-    <string name="vibrate_on_keypress">Vibrate on keypress</string>
+    <string name="vibrate_on_keypress">点击时振动</string>
 
     <!-- Option to play back sound on keypress in soft keyboard -->
-    <string name="sound_on_keypress">Sound on keypress</string>
+    <string name="sound_on_keypress">点击音效</string>
 
     <!-- Option to pop up the character with a larger font above soft keyboard -->
-    <string name="popup_on_keypress">Popup on keypress</string>
+    <string name="popup_on_keypress">点击时浮框</string>
 
     <!-- Option to enable using nearby keys when correcting/predicting -->
-    <string name="hit_correction">Correct typing errors</string>
+    <string name="hit_correction">纠正输入错误</string>
     
     <!-- Description for hit_correction  -->
-    <string name="hit_correction_summary">Enable input error correction</string>
+    <string name="hit_correction_summary">启用纠正输入错误</string>
     
     <!-- Option to enable using nearby keys when correcting/predicting in landscape-->
-    <string name="hit_correction_land">Landscape input errors</string>
+    <string name="hit_correction_land">横屏模式输入错误</string>
     
     <!-- Description for hit_correction in landscape -->
-    <string name="hit_correction_land_summary">Enable input error correction</string>
+    <string name="hit_correction_land_summary">横屏时启用纠正输入错误</string>
     
     <!-- Option to automatically correct word on hitting space -->
-    <string name="auto_correction">Word suggestions</string> 
+    <string name="auto_correction">词组建议</string> 
     
     <!-- Description for auto_correction -->
-    <string name="auto_correction_summary">Automatically correct the previous word</string>
+    <string name="auto_correction_summary">自动纠正错误</string>
 	
     <!-- Option to enable text prediction -->
-    <string name="prediction">Word suggestions</string>
+    <string name="prediction">英文输入预览</string>
     <!-- Category title for text prediction -->
-    <string name="prediction_category">Word suggestion settings</string>
+    <string name="prediction_category">英文输入预览设置</string>
     <!-- Description for text prediction -->
-    <string name="prediction_summary">Enable auto completion while typing</string>
+    <string name="prediction_summary">词组自动补全</string>
 	
     <!-- Dialog title for auto complete choices -->
-    <string name="auto_complete_dialog_title">Auto completion</string>
+    <string name="auto_complete_dialog_title">自动补全</string>
     
     <!-- Option to enable text prediction in landscape -->
-    <string name="prediction_landscape">Increase text field size</string> 
+    <string name="prediction_landscape">增大输入框大小</string> 
     <!-- Description for text prediction -->
-    <string name="prediction_landscape_summary">Hide word suggestions in landscape view</string>
+    <string name="prediction_landscape_summary">横屏时保持词组建议栏</string>
 	
     <!-- Option to enable auto capitalization of sentences -->
     <string name="auto_cap">Auto-capitalization</string> 
@@ -638,9 +638,9 @@
     <string name="main_setup_input_lang">Input languages</string>
     <string name="main_body"><Data>
       <![CDATA["
-        <h2>Enabling Hacker's Keyboard</h2>
+        <h2>启用本键盘</h2>
         
-        <p><i>Hacker's Keyboard</i> provides a new Android input method. It is <b>disabled by default</b>, and for security reasons Android doesn't allow programs to change input method settings. Please follow the following steps to activate it.<p>
+        <p><i>Hacker's Keyboard</i> 是一个输入法. 它<b>默认是禁用的</b>, 安卓出于安全原因，禁止输入法在安装时主动设置自己为系统的当前输入法. 请你根据下面步骤设置本输入法为当前系统输入法.<p>
         
         <h3>Add the keyboard to the system's input method list:</h3>
         <blockquote>
@@ -672,7 +672,7 @@
         <p>Please refer to the <a href='http://code.google.com/p/hackerskeyboard/'>project web page</a> for more information, including the user's guide, issue tracker, and discussion group.</p>
       "]]>
     </Data></string>
-    <string name="text_test">Test</string>
+    <string name="text_test">测试</string>
     <string name="seek_pref_0">0%</string>
     <string name="seek_pref_val">x%</string>
     <string name="seek_pref_max">100%</string>
