@@ -10,3 +10,4 @@ java/obj/
 out/
 tests/gen/
 tests/tests.iml
+tests/bin/
